@@ -18,6 +18,8 @@ items:
  - Data4Democracy/ethics-resources
  - civicdata/civicdata.github.io
  - Greenstand/Development-Overview
+ - tmrowco/tmrowapp-contrib
+ - tmrowco/electricitymap-contrib
 display_name: Social Impact
 created_by: bescalante
 ---
